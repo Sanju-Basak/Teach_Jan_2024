@@ -1,6 +1,6 @@
 <h1 align="center">January 2024 CSE 314</h1>
 <h2 align="center">Offline Assignment 5: xv6 - Threading & Synchronization</h2>
-<h3 align="center">Deadline: Saturday , November 30, 2024, 11:45 PM</h3>
+<h3 align="center">Deadline: Saturday, November 30, 2024, 11:45 PM</h3>
 
 
 #### Introduction
