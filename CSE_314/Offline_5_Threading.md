@@ -4,7 +4,7 @@
 
 
 #### Introduction
-In our previous offline, we used **POSIX** threads to solve _synchronization problems_. As smart CSE students, we won't be limited to a user only, but also design thread and synchronization primitives of our own. In this offline, we will add support for threads in **xv6**. We will implement a user-level thread library consisting of some system calls related to threads that are very familiar to us.
+In our previous offline, we used **POSIX** threads to solve _synchronization problems_. As smart CSE students, we won't be limited to a user only, but also design thread and synchronization primitives of our own. In this offline, we will add support for threads in **xv6**. We will implement a user-level thread library consisting of some system calls related to threads that are very familiar to us. Then, we will implement **two POSIX-like** syncronization primitives in **xv6** to solve some syncronization error.
 
 #### Background
 * Revisit the difference between _process_ and _thread_. The main difference is that threads share the same address space, while processes have their own address space. 
